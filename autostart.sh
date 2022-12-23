@@ -12,4 +12,5 @@ nm-applet &
 # 2. Uncomment to set a random wallpaper on login
 # find /usr/share/backgrounds/dtos-backgrounds/ -type f | shuf -n 1 | xargs xwallpaper --stretch &
 # 3. Uncomment to set wallpaper with nitrogen
+run sxhkd -c ~/.config/qtile/sxhkd/sxhkdrc
 nitrogen --restore &

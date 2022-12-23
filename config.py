@@ -1,3 +1,15 @@
+#!/usr/bin/env bash
+#  ____ _____ ___  ____
+# |  _ \_   _/ _ \/ ___|   Derek Taylor (DistroTube)
+# | | | || || | | \___ \   http://www.youtube.com/c/DistroTube
+# | |_| || || |_| |___) |  http://www.gitlab.com/dtos/dtos
+# |____/ |_| \___/|____/
+#
+# NAME: DTOS
+# DESC: An installation and deployment script for DT's Xmonad desktop.
+# WARNING: Run this script at your own risk.
+# DEPENDENCIES: dialog
+
 # -*- coding: utf-8 -*-
 import os
 import re
